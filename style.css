@@ -4,7 +4,11 @@
     max-width: 30%;
     height: 100px;
 }
-
+body{
+    margin: 0;
+    background-color: #888;
+    padding: 0 300px;
+}
 h1 {
     font-size: 50px;
     color: blue;
